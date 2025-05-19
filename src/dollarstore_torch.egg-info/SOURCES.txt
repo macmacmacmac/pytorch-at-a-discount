@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/dollarstore_torch.egg-info/PKG-INFO
+src/dollarstore_torch.egg-info/SOURCES.txt
+src/dollarstore_torch.egg-info/dependency_links.txt
+src/dollarstore_torch.egg-info/top_level.txt

@@ -1,5 +1,5 @@
 import numpy as np
-from functions import Z
+from dollarstore_torch.functions import Z
 
 #just a function describing various weight initialization paradigms
 #in general, setting weights to be all zeros or ones is a bad idea
